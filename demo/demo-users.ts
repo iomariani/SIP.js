@@ -38,3 +38,7 @@ export const webSocketServerAlice = "wss://edge.sip.onsip.com";
 export const nameBob = "Bob";
 export const uriBob = "sip:bob." + token + "@" + domain;
 export const webSocketServerBob = "wss://edge.sip.onsip.com";
+
+export const nameJohn = "John";
+export const uriJohn = "sip:john." + token + "@" + domain;
+export const webSocketServerJohn = "wss://edge.sip.onsip.com";
